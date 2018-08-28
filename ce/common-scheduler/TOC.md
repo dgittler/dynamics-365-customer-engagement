@@ -11,4 +11,4 @@
 ### [Understanding and customizing resource matching](developer/understanding-and-customizing-resource-matching-in-urs.md)
 ### [Find resources by language - A step by step guide](developer/extending-urs-step-by-step.md)
 ### [Universal FetchXML](developer/universal-fetchxml.md)
-## [URS Extensibility Release Notes](developer/extensibility-release-notes.md)
+## [URS Extensibility Release Notes](developer/extensibility-release-notes.md)k
